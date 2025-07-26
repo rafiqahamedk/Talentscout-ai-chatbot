@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Rafiq Ahamed",
+        "email": "rafiqahamed054@gmail.com",
+        "phone": "7867823156",
+        "experience": 1,
+        "position": "AI ML Engineer",
+        "location": "Madurai",
+        "tech_stack": "Python, TensorFlow, Streamlit"
+    },
+    {
+        "name": "Rafiq Ahamed",
+        "email": "rafiqahamed054@gmail.com",
+        "phone": "7867823156",
+        "experience": 1,
+        "position": "AI ML Engineer",
+        "location": "Madurai",
+        "tech_stack": "Python, TensorFlow, Streamlit"
+    },
+    {
+        "name": "Rafiq Ahamed",
+        "email": "rafiqahamed054@gmail.com",
+        "phone": "7867823156",
+        "experience": "5+",
+        "position": "AI ML Engineer",
+        "location": "Madurai",
+        "tech_stack": "Python, TensorFlow, Streamlit"
+    },
+    {
+        "name": "Rafiq Ahamed",
+        "email": "rafiqahamed054@gmail.com",
+        "phone": "7867823156",
+        "experience": "5+",
+        "position": "AI ML Engineer",
+        "location": "Madurai",
+        "tech_stack": "Python, TensorFlow, Streamlit"
+    },
+    {
+        "name": "Rafiq Ahamed",
+        "email": "rafiqahamed054@gmail.com",
+        "phone": "7867823156",
+        "experience": 4,
+        "position": "AI ML Engineer",
+        "location": "Madurai",
+        "tech_stack": "Python, TensorFlow, Streamlit"
+    },
+    {
+        "name": "Rafiq Ahamed",
+        "email": "rafiqahamed054@gmail.com",
+        "phone": "7867823156",
+        "experience": 3,
+        "position": "AI ML Engineer",
+        "location": "Madurai",
+        "tech_stack": "Python, TensorFlow, Streamlit"
+    }
+]
